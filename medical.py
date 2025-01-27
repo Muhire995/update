@@ -14,7 +14,7 @@ def main():
     )
 
     # Predefined file path
-    file_path = r"C:\Users\jmuhire\Downloads\BANK OF KIGALI UPDATED MEMBERSHIP LIST.xlsx"
+    file_path = "data/BANK OF KIGALI UPDATED MEMBERSHIP LIST.xlsx"
 
     # Load data when app starts
     try:
